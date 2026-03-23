@@ -37,7 +37,7 @@ Download [PDF version](DevOps%20Roadmap.pdf).
 - [Learning resources for DevOps Engineers (mostly free)](#learning-resources-for-devops-engineers-mostly-free)
   - [1. GIT](#1-git)
   - [2. Learn one programming language](#2-learn-one-programming-language)
-  - [3. Learn Linux & Scripting](#3-learn-linux--scripting)
+  - [3. Learn Linux & Scripting](#3-learn-linux--scripting) -- Currently only will have to use Proxmox 
   - [4. Learn Networking & Security](#4-learn-networking--security)
   - [5. Learn Server Management](#5-learn-server-management)
   - [6. Learn Containers](#6-learn-containers)
